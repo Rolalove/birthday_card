@@ -25,7 +25,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
         },
         items: [
           BottomNavigationBarItem(icon: Icon(Icons.message), label: 'Message'),
-          BottomNavigationBarItem(icon: Icon(Icons.star), label: 'Message'),
+          BottomNavigationBarItem(icon: Icon(Icons.star), label: 'Wishes'),
         ],
       ),
     );
